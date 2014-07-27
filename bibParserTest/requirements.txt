@@ -1,0 +1,11 @@
+flask
+Flask-SQLAlchemy
+Jinja2
+Werkzeug
+gunicorn
+Flask-Scss
+Flask-Script
+Flask-MongoKit
+MarkupSafe
+SQLAlchemy
+BibTexParser
