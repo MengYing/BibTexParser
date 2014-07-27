@@ -1,3 +1,3 @@
 BibTexParser
 ============
-It is a pototype that use flask and sqlit to parse the .bib file and show on the website
+It is a prototype that use flask and sqlit to parse the .bib file and show on the website
